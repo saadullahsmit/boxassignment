@@ -1,0 +1,20 @@
+div {
+  border: double;
+  height: 50vh;
+  width: 100%;
+}
+.logo {
+  margin: 20px 100px 0 600px;
+  border-bottom: blanchedalmond;
+}
+p {
+  align-items: center;
+  font-size: 20px;
+  text-decoration: none;
+}
+.nav {
+  padding: 20px;
+  margin: 0 0 0 500px;
+  text-decoration: none;
+
+} 
