@@ -1,0 +1,52 @@
+.parent{
+     /* background-color: blueviolet; */
+     width: 1000px;
+     height: 500px;
+     /* margin:0 0 0 150px; */
+     margin: 0 auto;
+     border: double;
+}
+.child{
+  height: 500px;
+  width: 600px;
+  /* background-color: aqua; */
+  margin: 0 auto;
+}
+.logo{
+  margin: 20px 0 0 220px; 
+}
+ul{
+  height: 20px;
+  width: 570px;
+  /* background-color: brown; */
+  text-align: center;
+  padding: 20px;
+  border-top: 2px solid black;
+  border-bottom: 1px solid black;
+}
+a{
+  text-decoration: none;
+  padding: 2px;
+  color: black;
+}
+li{
+  display: inline-block;
+  line-height: 1px;
+  text-transform: uppercase; 
+  padding: 15px;
+  font-family: sans-serif;
+}
+.banner{
+  width: 610px;
+  height: 200px;
+}
+p{
+  font-size: 18px;
+  text-align: justify;
+}
+.home{
+  color: orangered;
+}
+a:hover{
+  color: orangered;
+}
